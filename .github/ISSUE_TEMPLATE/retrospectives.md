@@ -11,7 +11,7 @@ This will be a Slack call after the release, with at least a week of notice in t
 
 A bulleted list of all proposed agenda items in this issue (whether at the top or in a comment) will be created on the day of the call, with a list of actions added at the end.
 
-Invited: @AdoptOpenJDK/tsc
+Invited: Everyone.
 
 Retrospective Owner Tasks (in order):
 - [ ] Post this issue's URL on the \#Release Slack channel around the start of the new release.
